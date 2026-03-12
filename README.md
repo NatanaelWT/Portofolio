@@ -79,6 +79,3 @@ Untuk menyesuaikan portfolio:
 - Aplikasi ini menggunakan penyimpanan file JSON (bukan database), cocok untuk portfolio sederhana.
 - Disarankan tidak mengunggah data pesan pribadi ke repository publik.
 
-## Lisensi
-
-Belum ditentukan. Anda bisa menambahkan file `LICENSE` sesuai kebutuhan (misalnya MIT).
